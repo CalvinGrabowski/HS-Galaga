@@ -9,7 +9,7 @@ This project demonstrates **object-oriented programming, game loop logic, collis
 
 - Player-controlled spaceship: moves left/right and slightly up/down; limited shooting speed.  
 - Multiple alien types with distinct behaviors, implemented as subclasses of a base `Alien` class.  
-- Scoring & lives: players earn points for destroying aliens and lose a life when hit by lasers (3–5 lives).  
+- Scoring & lives: players earn points for destroying aliens and lose a life when hit by lasers (3 lives).  
 - Real-time updates: the game runs at ~60 FPS, updating all entities efficiently using arrays.  
 - Collision detection: implemented by comparing `x` and `y` coordinates of objects.  
 - Custom assets: 47 16x16 images for lasers, aliens, player, explosions, and buttons stored in a `res` folder.  
