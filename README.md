@@ -14,6 +14,12 @@ This project demonstrates **object-oriented programming, game loop logic, collis
 - Collision detection: implemented by comparing `x` and `y` coordinates of objects.  
 - Custom assets: 47 16x16 images for lasers, aliens, player, explosions, and buttons stored in a `res` folder.  
 
+## How to Run
+1. Make sure you have Java installed.
+2. Compile the source files:
+   ```bash
+   javac *.java     # compiles all java files
+   java Galaga      # runs the game
 
 
 ## Technologies & APIs
