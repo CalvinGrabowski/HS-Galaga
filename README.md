@@ -33,15 +33,15 @@ This project demonstrates **object-oriented programming, game loop logic, collis
 Initial screen before the game begins, giving players a clear starting point.
 
 ### 2. Wave 1 – Aliens Entering
-![Wave 1](readme-imgs/wave1-enter.png)  
+![Wave 1](readme-imgs/wave1.png)  
 First wave of enemies entering the screen, demonstrating spawn mechanics and initial gameplay.
 
 ### 3. Wave 2 – Mid-Game Action
-![Wave 2](readme-imgs/wave2-action.png)  
+![Wave 2](readme-imgs/wave2.png)  
 Favorite wave! Player shooting at multiple alien types while avoiding enemy lasers, highlighting collision detection and dynamic gameplay.
 
 ### 4. Game Over / Restart Screen
-![Game Over](readme-imgs/restart-screen.png)  
+![Game Over](readme-imgs/restart.png)  
 Displays the player's score and allows restarting the game, showing game logic for death and replay.
 
 
