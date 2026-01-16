@@ -29,7 +29,7 @@ This project demonstrates **object-oriented programming, game loop logic, collis
 ## Gameplay Screenshots
 
 ### 1. Starting Screen
-![Starting Screen](readme-imgs/start-screen.png)  
+![Starting Screen](readme-imgs/start.png)  
 Initial screen before the game begins, giving players a clear starting point.
 
 ### 2. Wave 1 – Aliens Entering
