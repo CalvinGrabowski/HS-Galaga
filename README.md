@@ -15,8 +15,10 @@ This project demonstrates **object-oriented programming, game loop logic, collis
 - Custom assets: 47 16x16 images for lasers, aliens, player, explosions, and buttons stored in a `res` folder.  
 
 ## How to Run
-1. Make sure you have Java installed.
-2. Compile the source files:
+1. Copy the code from GitHub to personal computer
+2. Make sure you have Java installed.
+3. Direct to folder containing all the files
+4. Compile the source files:
    ```bash
    javac *.java     # compiles all java files
    java Galaga      # runs the game
