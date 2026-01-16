@@ -19,10 +19,10 @@ This project demonstrates **object-oriented programming, game loop logic, collis
 2. Make sure you have Java installed.
 3. Direct to folder containing all the files
 4. Compile the source files:
+   
    ```bash
    javac *.java     # compiles all java files
    java Galaga      # runs the game
-
 
 ## Technologies & APIs
 
